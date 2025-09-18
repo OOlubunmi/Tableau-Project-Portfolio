@@ -64,6 +64,7 @@ You can explore additional projects on my OneDrive here:
 
 Or you can scan the QRCode below
 
+<img width="200" height="200" alt="OneDrive QRCode" src="https://github.com/user-attachments/assets/2c2695dc-1ec2-4419-b9a3-b2fd3252f0f3" />  
 
 
 ---
